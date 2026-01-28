@@ -10,8 +10,7 @@
 ---
 
 ## About Me
-ML enthusiast focused on understanding **how models work internally**,  
-with interest in **ML algorithms, modeling, and fundamentals**.
+ML enthusiast focused on understanding **how models work internally**, with interest in **ML algorithms, modeling, and fundamentals**.
 
 ---
 ## Tech Stack
