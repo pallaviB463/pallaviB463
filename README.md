@@ -5,9 +5,11 @@
   Interested in ML modeling and machine learning algorithms
 </p>
 ---
+
 ## About Me
 ML enthusiast focused on understanding **how models work internally**,  
 with interest in **ML algorithms, modeling, and fundamentals**.
+
 ---
 ## Tech Stack
 
