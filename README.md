@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Pallavi 👋</h1>
-<h3 align="center">B.Tech Student | Machine Learning Enthusiast</h3>
+<h3 align="center">B.Tech Student | Machine Learning Enthusiast | ML Algorithms & Modeling</h3>
 
 <p align="center">
-  Interested in ML modeling and machine learning algorithms
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Interest-ML%20Algorithms-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Level-Student-orange?style=flat-square"/>
 </p>
 
 ---
